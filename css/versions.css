@@ -1,3 +1,19 @@
+/*------------------------------------------------------------------
+    Version: 1.0
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    [Table of contents]
+
+    1. APP VERSION
+
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+    APP SHOWCASE VERSION
+-------------------------------------------------------------------*/
 
 
 body.app_version .lead strong,
@@ -18,8 +34,8 @@ body.app_version .nav-pills > li.active > a:hover,
 body.app_version .icon-wrapper:hover i,
 body.app_version .grd1 {
     color: #ffffff;
-    background: #AD1457;
-    border: 1px solid #AD1457;
+    background: #0B6E4F;
+    border: 1px solid #0B6E4F;
 }
 
 body.app_version .icon_wrap,
@@ -106,7 +122,7 @@ body.app_version .btn-light i {
 }
 
 body.app_version .effect-1:after {
-    box-shadow: 0 0 0 2px #AD1457;
+    box-shadow: 0 0 0 2px #0B6E4F;
 }
 
 body.app_version .footer a,
@@ -325,7 +341,7 @@ body.app_version .hc.colon1 {
 }
 
 body.app_version .hc.colon2 {
-    background-color: #AD1457;
+    background-color: #0B6E4F;
 }
 
 body.app_version .hc.colon3 {
@@ -333,7 +349,7 @@ body.app_version .hc.colon3 {
 }
 
 body.app_version .hc.colon4 {
-    background-color: #AD1457;
+    background-color: #0B6E4F;
 }
 
 body.app_version .app-features li {

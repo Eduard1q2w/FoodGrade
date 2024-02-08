@@ -332,7 +332,7 @@ a img.aligncenter {
 	font-size: 18px;
 	border: 1px solid #ffffff;
 	color: #ffffff;
-	background-color: #AD1457;
+	background-color: #0B6E4F;
 	line-height: 25px;
 	float: right;
 	font-weight: 500;
@@ -376,13 +376,13 @@ a img.aligncenter {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link:hover{
-	background: #AD1457;
+	background: #0B6E4F;
 	color: #ffffff;
 	border-radius: 2px;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link.active{
-	background: #AD1457;
+	background: #0B6E4F;
 	color: #ffffff;
 	font-weight: 600;
 	border-radius: 2px;
@@ -1249,7 +1249,7 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .hoverbutton {
-    background-color: #AD1457;
+    background-color: #0B6E4F;
     position: absolute;
     color: #ffffff !important;
     top: 48%;
@@ -1474,7 +1474,7 @@ body.app_version .customwidget li i{
     border-radius: 6px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #AD1457;
+    background-color: #0B6E4F;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -1850,7 +1850,7 @@ body.app_version .bootstrap-select .btn-light:hover{
 }
 
 .footer-distributed .footer-company-name a:hover{
-	color: #AD1457;
+	color: #0B6E4F;
 }
 
 
@@ -2117,7 +2117,7 @@ body.app_version .dev-list .widget-title small{
      left: 0;
      margin: 0px;
      height: 2px;
-     background: #AD1457;
+     background: #0B6E4F;
      visibility: hidden;
      transition: all 0.45s ease;
      -webkit-transition: all 0.45s ease;
